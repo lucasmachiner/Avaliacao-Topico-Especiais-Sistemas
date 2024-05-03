@@ -1,0 +1,15 @@
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\avaliacao.AssemblyInfoInputs.cache
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\avaliacao.AssemblyInfo.cs
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\avaliacao.sourcelink.json
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\bin\Debug\net8.0\avaliacao.exe
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\bin\Debug\net8.0\avaliacao.deps.json
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\bin\Debug\net8.0\avaliacao.runtimeconfig.json
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\bin\Debug\net8.0\avaliacao.dll
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\bin\Debug\net8.0\avaliacao.pdb
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\avaliacao.dll
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\refint\avaliacao.dll
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\avaliacao.pdb
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\avaliacao.genruntimeconfig.cache
+C:\Users\lucas.machiner\Desktop\faculdade\facul-topicos-especiais-sistemas\avaliacao\obj\Debug\net8.0\ref\avaliacao.dll
